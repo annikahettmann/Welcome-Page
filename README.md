@@ -20,7 +20,7 @@ We have posted some examples of [analytics projects](https://github.com/ChapmanD
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/JA.jpg" width="115" height="115">
 
-Josh is a current student in the Master's in Computational and Data Sciences program at Chapman. He graduated from Chapman spring 2020 with a Computer Sciecne major and a double minor in Analytics and Game Developement Programming. He strives continue his studies in hopes to become a university professor in computer and data science.
+Josh is a current student in the Master's in Computational and Data Sciences program at Chapman. He graduated from Chapman spring 2020 with a Computer Science major and a double minor in Analytics and Game Developement Programming. He strives continue his studies in hopes to become a university professor in computer and data science.
 
 </br>
 
