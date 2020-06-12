@@ -1,5 +1,5 @@
 # Chapman Data Analytics Association
-Hello! This is our welcome page where you can find various resources for the club! We are a community passionate & excited about analytics and love to explore, discuss, and learn about data.
+Hello! This is our welcome page where you can find various resources for the club! We are a community passionate & excited about analytics and love to explore, discuss, and learn about data. Please contact us with any questions at chapmandataanalytics@gmail.com.
 
 ## Club Description
 The Data Analytics Association will facilitate the interaction of like-minded programmers in an effort to establish an educationally accredited association by manipulating innovative technological platforms to:
@@ -10,3 +10,39 @@ The Data Analytics Association will facilitate the interaction of like-minded pr
 - Build a comprehensive community for alumni and other prospective businesses to employ;
 - Create a forum to host recreational programming, hacking, and computational competition for students to improve their skills and showcase their programming capabilities;
 - Generating and publishing innovative communal computer programming packages and software through platforms like GitHub, effectually transitioning students into applicable business environments;
+
+## Example Projects
+We have posted some examples of [analytics projects](https://github.com/ChapmanDAA/Welcome-Page/tree/master/Example%20Projects) from our executive board for your reference!
+
+## Meet the Executive Board
+
+### Joshua Anderson - President 
+
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/JA.jpg" width="115" height="115">
+
+Josh is a current student in the Master's in Computational and Data Sciences program at Chapman. He graduated from Chapman spring 2020 with a Computer Sciecne major and a double minor in Analytics and Game Developement Programming. He strives continue his studies in hopes to become a university professor in computer and data science.
+
+</br>
+
+--- 
+
+### Cady Stringer - External Vice President
+
+<img align="left" src="link to image here" width="115" height="115">
+
+Cady's description here.  
+
+</br>  
+
+---
+
+### Anthony Foley - Internal Vice President
+
+<img align="left" src="link to image here" width="115" height="115">
+
+Anthony's description here.  
+
+</br>
+
+---
+
