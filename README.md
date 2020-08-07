@@ -28,9 +28,9 @@ Josh is a current student in the Master's in Computational and Data Sciences pro
 
 ### Cady Stringer - External Vice President
 
-<img align="left" src="link to image here" width="115" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Cady.jpg" width="115" height="115">
 
-Cady's description here.  
+Cady is a rising junior at Chapman and is majoring in Economics and minoring in Analytics. She's a research assistant on campus and has worked on various projects focused in economic history. After graduation, she aspires to consult in data science and analytics.
 
 </br>  
 
