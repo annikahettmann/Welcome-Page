@@ -38,7 +38,7 @@ Cady is a rising junior at Chapman and is majoring in Economics and minoring in 
 
 ### Anthony Foley - Internal Vice President
 
-<img align="left" src="link to image here" width="115" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" width="115" height="115">
 
 Anthony is also a rising junior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
 
