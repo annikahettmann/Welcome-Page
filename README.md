@@ -40,7 +40,7 @@ Cady is a rising junior at Chapman and is majoring in Economics and minoring in 
 
 <img align="left" src="link to image here" width="115" height="115">
 
-Anthony is a also a rising junior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
+Anthony is also a rising junior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
 
 </br>
 
