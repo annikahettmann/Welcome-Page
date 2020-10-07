@@ -1,5 +1,5 @@
 # Chapman Data Analytics Association
-Hello! This is our welcome page where you can find various resources for the club! We are a community passionate & excited about analytics and love to explore, discuss, and learn about data. Please contact us with any questions at chapmandataanalytics@gmail.com.
+Hello! This is our welcome page where you can find various resources for the club! We are a community passionate & excited about analytics and love to explore, discuss, and learn about data. Please contact us with any questions at dataanalytics@chapman.edu.
 
 ## Club Description
 The Data Analytics Association will facilitate the interaction of like-minded programmers in an effort to establish an educationally accredited association by manipulating innovative technological platforms to:
