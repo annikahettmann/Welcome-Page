@@ -30,7 +30,7 @@ Josh is a current student in the Master's in Computational and Data Sciences pro
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Cady.jpg" width="115" height="115">
 
-Cady is a rising junior at Chapman and is majoring in Economics and minoring in Analytics. She's a research assistant on campus and has worked on various projects focused in economic history. After graduation, she aspires to consult in data science and analytics.
+Cady is a rising junior majoring in Economics and minoring in Analytics. She's a TA for MGSC 310, and research assistant on campus and has worked on various projects focused in economic history. After graduation, she aspires to consult in data science and analytics.
 
 </br>  
 
