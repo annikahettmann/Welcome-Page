@@ -38,7 +38,7 @@ Josh is a current student in the Master's in Computational and Data Sciences pro
 
 ### Anthony Foley - Internal Vice President
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" width="125" height="125">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" height="125">
 
 Anthony is also a rising senior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
 
