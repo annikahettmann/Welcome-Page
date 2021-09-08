@@ -18,7 +18,7 @@ We have posted some examples of [analytics projects](https://github.com/ChapmanD
 
 ### Erin Lee - President 
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/el.JPG" width="115" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/el.JPG" width="120" height="120">
 
 Erin is a senior majoring in Data Analytics. After graduation, she would like to apply and expand her data analytics skills ideally within the financial services sector.  She is a coffee-holic and a runner.
 
@@ -28,7 +28,7 @@ Erin is a senior majoring in Data Analytics. After graduation, she would like to
 
 ### Joshua Anderson - Technical Vice President 
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/JA.jpg" width="115" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/JA.jpg" width="120" height="120">
 
 Josh is a current student in the Master's in Computational and Data Sciences program at Chapman. He graduated from Chapman spring 2020 with a Computer Science major and a double minor in Analytics and Game Developement Programming. He strives continue his studies in hopes to become a university professor in computer and data science.
 
@@ -38,7 +38,7 @@ Josh is a current student in the Master's in Computational and Data Sciences pro
 
 ### Anthony Foley - Internal Vice President
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" width="115" height="125">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" width="120" height="120">
 
 Anthony is also a rising senior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
 
@@ -48,7 +48,7 @@ Anthony is also a rising senior, majoring in Business Administration - Finance &
 
 ### Sabrina Jain - Vice President of External Affairs
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/sj.png" width="115" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/sj.png" width="120" height="120">
 
 Sabrina is a current junior with senior standing at Chapman with an Accounting major and a double minor in Data Analytics and Honors. She is an incoming tax consultant intern at Deloitte in Costa Mesa, CA office and upon graduation is seeking her CPA licensure and a full-time job with Deloitte.
 
