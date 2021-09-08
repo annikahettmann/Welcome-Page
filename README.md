@@ -16,6 +16,8 @@ We have posted some examples of [analytics projects](https://github.com/ChapmanD
 
 ## Meet the Executive Team
 
+***
+
 ### Erin Lee - President 
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/el.JPG" height="120">
@@ -24,6 +26,7 @@ Erin is a senior majoring in Data Analytics. After graduation, she would like to
 
 
 </br>
+
 --- 
 
 ### Joshua Anderson - Technical Vice President 
