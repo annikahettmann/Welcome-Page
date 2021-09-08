@@ -24,7 +24,6 @@ Erin is a senior majoring in Data Analytics. After graduation, she would like to
 
 </br>
 </br>
-</br>
 
 *** 
 
@@ -56,6 +55,5 @@ Anthony is also a rising senior, majoring in Business Administration - Finance &
 Sabrina is a current junior with senior standing at Chapman with an Accounting major and a double minor in Data Analytics and Honors. She is an incoming tax consultant intern at Deloitte in Costa Mesa, CA office and upon graduation is seeking her CPA licensure and a full-time job with Deloitte.
 
 </br>  
-</br>
 
 ---
