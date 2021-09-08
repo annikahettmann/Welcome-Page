@@ -18,7 +18,7 @@ We have posted some examples of [analytics projects](https://github.com/ChapmanD
 
 ### Erin Lee - President 
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/el.JPG" width="125" height="125">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/el.JPG" width="125" height="130">
 
 Erin is a senior majoring in Data Analytics. After graduation, she would like to apply and expand her data analytics skills ideally within the financial services sector.  She is a coffee-holic and a runner.
 
