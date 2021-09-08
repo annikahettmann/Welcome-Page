@@ -31,7 +31,7 @@ Erin is a senior majoring in Data Analytics. After graduation, she would like to
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/JA.jpg" width="125" height="115">
 
-Josh is a current student in the Master's in Computational and Data Sciences program at Chapman. He graduated from Chapman spring 2020 with a Computer Science major and a double minor in Analytics and Game Developement Programming. He strives continue his studies in hopes to become a university professor in computer and data science.
+Josh is a current student in the Master's in Computational and Data Sciences program at Chapman. He graduated from Chapman spring 2020 with a Computer Science major and a double minor in Analytics and Game Developement Programming. He strives to continue his studies in hopes to become a university professor in computer and data science.
 
 </br>
 
@@ -41,7 +41,7 @@ Josh is a current student in the Master's in Computational and Data Sciences pro
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" height="115">
 
-Anthony is also a rising senior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
+Anthony is also a senior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
 
 </br>
 </br>
