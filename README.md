@@ -48,7 +48,7 @@ Anthony is also a rising senior, majoring in Business Administration - Finance &
 
 ---
 
-### Sabrina Jain - Vice President of External Affairs
+### Sabrina Jain - External Vice President
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/sj.png" height="115">
 
