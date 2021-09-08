@@ -12,11 +12,21 @@ The Data Analytics Association will facilitate the interaction of like-minded pr
 - Generating and publishing innovative communal computer programming packages and software through platforms like GitHub, effectually transitioning students into applicable business environments;
 
 ## Example Projects
-We have posted some examples of [analytics projects](https://github.com/ChapmanDAA/Welcome-Page/tree/master/Example%20Projects) from our executive board for your reference!
+We have posted some examples of [analytics projects](https://github.com/ChapmanDAA/Welcome-Page/tree/master/Example%20Projects) from our executive team for your reference!
 
-## Meet the Executive Board
+## Meet the Executive Team
 
-### Joshua Anderson - President 
+### Erin Lee - President 
+
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/el.JPG" width="115" height="115">
+
+Erin is a senior majoring in Data Analytics. After graduation, she would like to apply and expand her data analytics skills ideally within the financial services sector.  She is a coffee-holic and a runner.
+
+</br>
+
+--- 
+
+### Joshua Anderson - Technical Vice President 
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/JA.jpg" width="115" height="115">
 
@@ -24,25 +34,24 @@ Josh is a current student in the Master's in Computational and Data Sciences pro
 
 </br>
 
---- 
-
-### Cady Stringer - External Vice President
-
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Cady.jpg" width="115" height="115">
-
-Cady is a rising junior majoring in Economics and minoring in Analytics. She's a TA for MGSC 310, and research assistant on campus and has worked on various projects focused in economic history. After graduation, she aspires to consult in data science and analytics.
-
-</br>  
-
 ---
 
 ### Anthony Foley - Internal Vice President
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" width="115" height="125">
 
-Anthony is also a rising junior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
+Anthony is also a rising senior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
 
 </br>
 
 ---
 
+### Sabrina Jain - Vice President of External Affairs
+
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/sj.png" width="115" height="115">
+
+Sabrina is a current junior with senior standing at Chapman with an Accounting major and a double minor in Data Analytics and Honors. She is an incoming tax consultant intern at Deloitte in Costa Mesa, CA office and upon graduation is seeking her CPA licensure and a full-time job with Deloitte.
+
+</br>  
+
+---
