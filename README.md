@@ -48,7 +48,7 @@ Anthony is also a rising senior, majoring in Business Administration - Finance &
 
 ### Sabrina Jain - Vice President of External Affairs
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/sj.png">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/sj.png" width="115" height="115">
 
 Sabrina is a current junior with senior standing at Chapman with an Accounting major and a double minor in Data Analytics and Honors. She is an incoming tax consultant intern at Deloitte in Costa Mesa, CA office and upon graduation is seeking her CPA licensure and a full-time job with Deloitte.
 
