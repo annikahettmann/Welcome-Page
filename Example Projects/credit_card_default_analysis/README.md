@@ -17,7 +17,7 @@ credit_card_analysis_presentation.pdf: our final presentation including our find
 Plot of the Odds (Exponentiated Coefficients) from the Logistic Regression Model
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="100">
+<img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="75%">
 </p>
 
 Boxplots: Balance & Its Relationship to Default || Cash-Advance Transactions & Its Relationship to Default
@@ -27,7 +27,7 @@ Boxplots: Balance & Its Relationship to Default || Cash-Advance Transactions & I
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="120">
+<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="85%">
 </p>
 
 Dendrogram
