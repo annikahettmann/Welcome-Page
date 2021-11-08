@@ -1,6 +1,6 @@
 Credit Card Default Data Analysis
 
-*Introduction to Data Science - CPSC 392, (Fall 2020)*
+*Introduction to Data Science - CPSC 392 (Fall 2020)*
 
 ***Anthony Foley, Erin Lee & Christian Muresan***
 
