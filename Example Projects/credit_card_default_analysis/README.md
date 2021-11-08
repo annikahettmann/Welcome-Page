@@ -41,23 +41,23 @@ Dendrogram
 HAC Clustering Results
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819553-2d3d5400-5f6d-11eb-9e9d-90b7f48f73b0.png" height="115%">
+<img src="https://user-images.githubusercontent.com/69367085/105819553-2d3d5400-5f6d-11eb-9e9d-90b7f48f73b0.png" height="125%">
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819568-31697180-5f6d-11eb-8f28-f828e18c2a93.png" height="115%">
+<img src="https://user-images.githubusercontent.com/69367085/105819568-31697180-5f6d-11eb-8f28-f828e18c2a93.png" height="125%">
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819581-34646200-5f6d-11eb-9244-32fe549bbc1b.png" height="115%">
+<img src="https://user-images.githubusercontent.com/69367085/105819581-34646200-5f6d-11eb-9244-32fe549bbc1b.png" height="125%">
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819593-39291600-5f6d-11eb-975f-d254edcfcc81.png" height="115%">
+<img src="https://user-images.githubusercontent.com/69367085/105819593-39291600-5f6d-11eb-975f-d254edcfcc81.png" height="125%">
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819601-3c240680-5f6d-11eb-89a8-4e92806bfe1f.png" height="115%">
+<img src="https://user-images.githubusercontent.com/69367085/105819601-3c240680-5f6d-11eb-89a8-4e92806bfe1f.png" height="125%">
 </p>
 
 
@@ -70,18 +70,18 @@ Linear Regression Coefficient Plot
 Residuals Plot
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105820068-ea2fb080-5f6d-11eb-8105-f7b0a51ee95e.png" height="75%">
+<img src="https://user-images.githubusercontent.com/69367085/105820068-ea2fb080-5f6d-11eb-8105-f7b0a51ee95e.png" height="50%">
 </p>
 
 
 Coefficient Plots After Regularization
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105820153-09c6d900-5f6e-11eb-8141-2e620f222427.png" height="80%">
+<img src="https://user-images.githubusercontent.com/69367085/105820153-09c6d900-5f6e-11eb-8141-2e620f222427.png" height="70%">
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105820171-0e8b8d00-5f6e-11eb-9113-13d08934b002.png" height="75%">
+<img src="https://user-images.githubusercontent.com/69367085/105820171-0e8b8d00-5f6e-11eb-9113-13d08934b002.png" height="50%">
 </p>
 
 
