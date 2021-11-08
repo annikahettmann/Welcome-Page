@@ -17,7 +17,7 @@ credit_card_analysis_presentation.pdf: our final presentation including our find
 <div align="center">Plot of the Odds (Exponentiated Coefficients) from the Logistic Regression Model
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="300">
+<img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="310">
 </p>
 
 
