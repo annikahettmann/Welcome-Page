@@ -41,23 +41,23 @@ Cash-Advance Transactions & Its Relationship to Default
 <div align="center">HAC Clustering Results
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819553-2d3d5400-5f6d-11eb-9e9d-90b7f48f73b0.png" height="400">
+<img src="https://user-images.githubusercontent.com/69367085/105819553-2d3d5400-5f6d-11eb-9e9d-90b7f48f73b0.png" height="350">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819568-31697180-5f6d-11eb-8f28-f828e18c2a93.png" height="400">
+<img src="https://user-images.githubusercontent.com/69367085/105819568-31697180-5f6d-11eb-8f28-f828e18c2a93.png" height="350">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819581-34646200-5f6d-11eb-9244-32fe549bbc1b.png" height="400">
+<img src="https://user-images.githubusercontent.com/69367085/105819581-34646200-5f6d-11eb-9244-32fe549bbc1b.png" height="350">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819593-39291600-5f6d-11eb-975f-d254edcfcc81.png" height="400">
+<img src="https://user-images.githubusercontent.com/69367085/105819593-39291600-5f6d-11eb-975f-d254edcfcc81.png" height="350">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819601-3c240680-5f6d-11eb-89a8-4e92806bfe1f.png" height="400">
+<img src="https://user-images.githubusercontent.com/69367085/105819601-3c240680-5f6d-11eb-89a8-4e92806bfe1f.png" height="350">
 </p>
 
 
