@@ -24,18 +24,18 @@ credit_card_analysis_presentation.pdf: our final presentation including our find
 <div align="center">Boxplot: Balance & Its Relationship to Default
   
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819419-03842d00-5f6d-11eb-937a-05c7e6f428ed.png" height="90%">
+<img src="https://user-images.githubusercontent.com/69367085/105819419-03842d00-5f6d-11eb-937a-05c7e6f428ed.png" height="95%">
 </p>
 
 Cash-Advance Transactions & Its Relationship to Default
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="90%">
+<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="95%">
 </p>
 
 <div align="center">Dendrogram
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819521-2282bf00-5f6d-11eb-81be-34ae7cb70578.png" height="100%">
+<img src="https://user-images.githubusercontent.com/69367085/105819521-2282bf00-5f6d-11eb-81be-34ae7cb70578.png" height="110%">
 </p>
 
 <div align="center">HAC Clustering Results
