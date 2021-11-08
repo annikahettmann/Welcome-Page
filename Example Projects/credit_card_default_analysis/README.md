@@ -27,7 +27,7 @@ Boxplots: Balance & Its Relationship to Default || Cash-Advance Transactions & I
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c" height="100">
+<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="120">
 </p>
 
 Dendrogram
