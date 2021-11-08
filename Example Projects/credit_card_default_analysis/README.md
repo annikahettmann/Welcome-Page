@@ -17,25 +17,25 @@ credit_card_analysis_presentation.pdf: our final presentation including our find
 <div align="center">Plot of the Odds (Exponentiated Coefficients) from the Logistic Regression Model
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="310">
+<img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="325">
 </p>
 
 
 <div align="center">Boxplot: Balance & Its Relationship to Default
   
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819419-03842d00-5f6d-11eb-937a-05c7e6f428ed.png" height="95%">
+<img src="https://user-images.githubusercontent.com/69367085/105819419-03842d00-5f6d-11eb-937a-05c7e6f428ed.png" height="100%">
 </p>
 
 Cash-Advance Transactions & Its Relationship to Default
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="95%">
+<img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="100%">
 </p>
 
 <div align="center">Dendrogram
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105819521-2282bf00-5f6d-11eb-81be-34ae7cb70578.png" height="110%">
+<img src="https://user-images.githubusercontent.com/69367085/105819521-2282bf00-5f6d-11eb-81be-34ae7cb70578.png" height="120%">
 </p>
 
 <div align="center">HAC Clustering Results
