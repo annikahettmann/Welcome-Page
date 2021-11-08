@@ -83,6 +83,3 @@ Cash-Advance Transactions & Its Relationship to Default
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105820171-0e8b8d00-5f6e-11eb-9113-13d08934b002.png" height="300">
 </p>
-
-
-
