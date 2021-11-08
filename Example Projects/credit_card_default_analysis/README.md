@@ -14,15 +14,15 @@ credit_card_analysis_presentation.pdf: our final presentation including our find
 
 ## Plots & Models
 
-Plot of the Odds (Exponentiated Coefficients) from the Logistic Regression Model
+<div align="center">Plot of the Odds (Exponentiated Coefficients) from the Logistic Regression Model
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="300">
 </p>
 
-*Boxplots*
 
-Balance & Its Relationship to Default
+<div align="center">Boxplot: Balance & Its Relationship to Default
+  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105819419-03842d00-5f6d-11eb-937a-05c7e6f428ed.png" height="90%">
 </p>
@@ -32,13 +32,13 @@ Cash-Advance Transactions & Its Relationship to Default
 <img src="https://user-images.githubusercontent.com/69367085/105819432-07b04a80-5f6d-11eb-9e7d-a479ce53021c.png" height="90%">
 </p>
 
-Dendrogram
+<div align="center">Dendrogram
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105819521-2282bf00-5f6d-11eb-81be-34ae7cb70578.png" height="100%">
 </p>
 
-HAC Clustering Results
+<div align="center">HAC Clustering Results
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105819553-2d3d5400-5f6d-11eb-9e9d-90b7f48f73b0.png" height="400">
@@ -61,20 +61,20 @@ HAC Clustering Results
 </p>
 
 
-Linear Regression Coefficient Plot
+<div align="center">Linear Regression Coefficient Plot
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105820102-f3b91880-5f6d-11eb-8ff0-eab63319badb.png" height="100%">
 </p>
 
-Residuals Plot
+<div align="center">Residuals Plot
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105820068-ea2fb080-5f6d-11eb-8105-f7b0a51ee95e.png" height="300">
 </p>
 
 
-Coefficient Plots After Regularization
+<div align="center">Coefficient Plots After Regularization
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105820153-09c6d900-5f6e-11eb-8141-2e620f222427.png" height="300">
