@@ -8,10 +8,10 @@ Credit Card Default Data Analysis
 - credit_card_analysis_presentation.pdf: our final presentation including our findings
 
 ## Data Set
-- https://www.kaggle.com/arjunbhasin2013/ccdata
+https://www.kaggle.com/arjunbhasin2013/ccdata
 
 ## Programming Language
-- Python
+Python
 
 ## Plots & Models
 
