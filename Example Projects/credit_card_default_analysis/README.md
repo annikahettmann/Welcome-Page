@@ -70,7 +70,7 @@ Cash-Advance Transactions & Its Relationship to Default
 <div align="center">Residuals Plot
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69367085/105820068-ea2fb080-5f6d-11eb-8105-f7b0a51ee95e.png" height="300">
+<img src="https://user-images.githubusercontent.com/69367085/105820068-ea2fb080-5f6d-11eb-8105-f7b0a51ee95e.png" height="400">
 </p>
 
 
