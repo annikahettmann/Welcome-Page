@@ -21,7 +21,6 @@ Credit Card Default Data Analysis
 <img src="https://user-images.githubusercontent.com/69367085/105819366-f23b2080-5f6c-11eb-880e-1224151cac06.png" height="325">
 </p>
 
-
 <div align="center">Boxplot: Balance & Its Relationship to Default
   
 <p align="center">
@@ -61,7 +60,6 @@ Cash-Advance Transactions & Its Relationship to Default
 <img src="https://user-images.githubusercontent.com/69367085/105819601-3c240680-5f6d-11eb-89a8-4e92806bfe1f.png" height="350">
 </p>
 
-
 <div align="center">Linear Regression Coefficient Plot
 
 <p align="center">
@@ -73,7 +71,6 @@ Cash-Advance Transactions & Its Relationship to Default
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69367085/105820068-ea2fb080-5f6d-11eb-8105-f7b0a51ee95e.png" height="350">
 </p>
-
 
 <div align="center">Coefficient Plots After Regularization
 
