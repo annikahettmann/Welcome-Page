@@ -1,5 +1,5 @@
 # Chapman Data Analytics Association
-Hello! This is our welcome page where you can find various resources for the club! Please contact us with any questions at dataanalytics@chapman.edu.
+Hello! This is our welcome page where you can find various resources for the club. Please contact us with any questions at dataanalytics@chapman.edu.
 
 ## Club Description
 The Data Analytics Association is open to all years and majors at Chapman. This club provides the following to its members:
@@ -9,7 +9,7 @@ The Data Analytics Association is open to all years and majors at Chapman. This 
 - build an employment network for alumni
 
 ## Example Projects
-We have posted some examples of [analytics projects](https://github.com/ChapmanDAA/Welcome-Page/tree/master/Example%20Projects) from our executive team for your reference!
+We have posted some examples of [analytics projects](https://github.com/ChapmanDAA/Welcome-Page/tree/master/Example%20Projects) from our executive team for your reference.
 
 ## Meet the Executive Team
 
