@@ -4,7 +4,7 @@ Hello! This is our welcome page where you can find various resources for the clu
 ## Club Description
 The Data Analytics Association is open to all years and majors at Chapman. This club provides the following to its members:
 - hear from industry experts
-- provide experiential opportunities outside of required course work
+- create experiential opportunities outside of required course work
 - support the transition from being a student to a professional
 - build an employment network for alumni
 
