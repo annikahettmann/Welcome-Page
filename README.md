@@ -1,4 +1,4 @@
-# Chapman University Data Analytics Association
+# Chapman Data Analytics Association
 Hello! This is where we post various resources for the club. Please contact us with any questions at dataanalytics@chapman.edu.
 
 ## Club Description
