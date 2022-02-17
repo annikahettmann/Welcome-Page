@@ -2,7 +2,7 @@
 Hello! This is where we post various resources for the club. Please contact us with any questions at dataanalytics@chapman.edu.
 
 ## Club Description
-The Data Analytics Association (DAA) is open to all years and majors at Chapman. Members *do not* need to have prior programming experience to be a part of this club. The DAA's leadership comes from various backgrounds and experience levels, and our goal is for our club's offerings to reflect this range as well. This club seeks to provide the following:
+The Data Analytics Association (DAA) is open to all years and majors at Chapman. Members *do not* need to have prior programming experience to be a part of this club. The DAA's leadership comes from various backgrounds and experience levels, and our goal is for our club's offerings to reflect this range as well. This club provides the following:
 - hear from industry experts
 - create experiential opportunities outside of required course work
 - support the transition from being a student to a professional
