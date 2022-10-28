@@ -26,31 +26,34 @@ BJ is a Computer Science major.
 
 ### Tyler Kay - Technical Vice President 
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/tyler.jpg" width="125" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/tyler.jpg" height="115">
 
 Tyler is a Computer Science major.
 
+</br>
 </br>
 
 ---
 
 ### Ryan Shihabi - Technical Vice President
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/ryan.png" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/ryan.png" width="125" height="115">
 
 Ryan is a Data Science major.
 
+</br>
 </br>
 
 ---
 
 ### James Brenninkmeijer - External Vice President
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/james.JPG" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/james.JPG" width="125" height="115">
 
 James is an Accounting major.
 
-</br>  
+</br>
+</br>
 
 ---
 
@@ -66,20 +69,22 @@ Annika is a senior Data Analytics major. They are currently an intern working re
 
 ### Jessica Viner - Marketing/Recruitment Chair
 
-<img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/avatar.png" height="115">
+<img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/avatar.png" width="125" height="115">
 
 Jessica is a Data Science/Economics double major.
 
+</br>
 </br>
 
 ---
 
 ### Cecilia Abrahamsson - Coordinator
 
-<img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/avatar.png" height="115">
+<img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/avatar.png" width="125" height="115">
 
 Cecilia is a Software Engineering major.
 
+</br>
 </br>
 
 ---
