@@ -9,48 +9,77 @@ The Data Analytics Association (DAA) is open to all years and majors at Chapman.
 - build an employment network for alumni
 
 ## Example Projects
-We have posted some examples of [analytics projects](https://github.com/ChapmanDAA/Welcome-Page/tree/master/Example%20Projects) from our executive team for  reference.
+We have posted some examples of [analytics projects](https://github.com/ChapmanDAA/Welcome-Page/tree/master/Example%20Projects) from our executive team for reference.
 
 ## Meet the Executive Team
 
-### Erin Lee - President 
+### BJ Bae - President 
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/el.JPG" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/bj.jpg" height="115">
 
-Erin is a senior, majoring in Data Science. After graduation, she would like to apply and expand her analytics skills ideally within the financial services sector.  She is a coffee-holic and a runner.
+BJ is a Computer Science major.
 
 </br>
 </br>
 
 *** 
 
-### Joshua Anderson - Technical Vice President 
+### Tyler Kay - Technical Vice President 
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/JA.jpg" width="125" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/tyler.jpg" width="125" height="115">
 
-Josh is a current student in the Master's in Computational and Data Sciences program at Chapman. He graduated from Chapman spring 2020 with a Computer Science major and a double minor in Analytics and Game Developement Programming. He strives to continue his studies in hopes to become a university professor in computer and data science.
+Tyler is a Computer Science major.
 
 </br>
 
 ---
 
-### Anthony Foley - Internal Vice President
+### Ryan Shihabi - Technical Vice President
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/Foley.JPG" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/ryan.png" height="115">
 
-Anthony is also a senior, majoring in Business Administration - Finance & minoring in Computer Science and Data Analytics. He currently works for the Janes Financial Residency right here at Chapman and loves to surf and play golf in his free time.
+Ryan is a Data Science major.
 
-</br>
 </br>
 
 ---
 
-### Sabrina Jain - External Vice President
+### James Brenninkmeijer - External Vice President
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/sj.png" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/james.JPG" height="115">
 
-Sabrina is a current junior with senior standing at Chapman with an Accounting major and a double minor in Data Analytics and Honors. She is an incoming tax consultant intern at Deloitte in Costa Mesa, CA office and upon graduation is seeking her CPA licensure and a full-time job with Deloitte.
+James is an Accounting major.
 
 </br>  
+
+---
+
+### Annika Hettmann - Marketing/Recruitment Chair
+
+<img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/annika.jpeg" width="125" height="115">
+
+Annika is a Data Analytics major.
+
+</br>
+
+---
+
+### Jessica Viner - Marketing/Recruitment Chair
+
+<img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/avatar.png" height="115">
+
+Jessica is a Data Science/Economics double major.
+
+</br>
+
+---
+
+### Cecilia Abrahamsson - Coordinator
+
+<img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/avatar.png" height="115">
+
+Cecilia is a Software Engineering major.
+
+</br>
 
 ---
