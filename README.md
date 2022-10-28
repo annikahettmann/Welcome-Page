@@ -58,7 +58,7 @@ James is an Accounting major.
 
 <img align="left" src="https://github/com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/annika.jpeg" width="125" height="115">
 
-Annika is a Data Analytics major.
+Annika is a senior Data Analytics major. They are currently an intern working remotely with EBR Systems, Inc., but plan to seek out a full-time job upon graduation. In their free time, they enjoy reading and writing fiction and going on coffee/boba runs.
 
 </br>
 
